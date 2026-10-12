@@ -1,0 +1,14 @@
+.venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+uploads/
+personal_data/
+*.csv
+!data/sample_sauna_history.csv
+.DS_Store

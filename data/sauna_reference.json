@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.foundmyfitness.com/topics/sauna",
+  "retrieval_date": "2026-10-10",
+  "page_update_date": "2026-08-10",
+  "verified": true,
+  "claims": [
+    {"section": "Overview of sauna practices", "claim": "Sauna heat sources and humidity differ; much research concerns Finnish-style bathing.", "limitation": "Results cannot automatically transfer to other sauna types or populations."},
+    {"section": "Physiological response to heat stress", "claim": "Heat exposure increases heart rate and sweating.", "limitation": "Session logs do not establish adaptation or improved fitness."},
+    {"section": "Cardiovascular disease", "claim": "Finnish prospective cohorts associate sauna habits with cardiovascular outcomes.", "limitation": "Observational associations cannot establish causality or predict individual benefit."},
+    {"section": "Hydration and electrolytes", "claim": "Sweating produces variable fluid losses; hydration merits attention.", "limitation": "Personal fluid requirements cannot be inferred from these logs."}
+  ],
+  "studies": [
+    {"title": "Association Between Sauna Bathing and Fatal Cardiovascular and All-Cause Mortality Events", "url": "https://doi.org/10.1001/jamainternmed.2014.8187", "verification": "Citation and DOI checked on source bibliography; publisher retrieval unavailable."}
+  ],
+  "evidence_limitations": ["Limited populations and differing protocols restrict generalization; no personal diagnosis, treatment, or risk-reduction estimate is supported."]
+}
