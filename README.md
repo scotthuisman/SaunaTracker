@@ -1,3 +1,4 @@
+# testing
 # Sauna Fitness Guru
 
 A working Streamlit application for CSV-only sauna history, deterministic analytics, and an optional local Ollama analyst. Exactly four tabs: Data Upload, Consolidated View, Historical Performance, and AI Analyst (Chat).
